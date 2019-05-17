@@ -1,0 +1,18 @@
+{
+  "name": "moviedata",
+  "version": "1.0.0",
+  "description": "lab2 top 2018 movies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Eric Stober",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
